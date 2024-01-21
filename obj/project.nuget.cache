@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pj2dH10azbDcnsZ2dm1zKD6XbssJXEkCGHGh9z001Zw7B4y7c1Oq8JWhSKl0iNGxZtffzapAVEBJpYcrjShuA==",
+  "success": true,
+  "projectFilePath": "D:\\.Net 7\\.net EF\\.net EF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

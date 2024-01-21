@@ -1,0 +1,30 @@
+D:\.Net 7\.net EF\bin\Debug\net7.0\appsettings.Development.json
+D:\.Net 7\.net EF\bin\Debug\net7.0\appsettings.json
+D:\.Net 7\.net EF\bin\Debug\net7.0\.net EF.staticwebassets.runtime.json
+D:\.Net 7\.net EF\bin\Debug\net7.0\.net EF.exe
+D:\.Net 7\.net EF\bin\Debug\net7.0\.net EF.deps.json
+D:\.Net 7\.net EF\bin\Debug\net7.0\.net EF.runtimeconfig.json
+D:\.Net 7\.net EF\bin\Debug\net7.0\.net EF.dll
+D:\.Net 7\.net EF\bin\Debug\net7.0\.net EF.pdb
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.AssemblyInfoInputs.cache
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.AssemblyInfo.cs
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.csproj.CoreCompileInputs.cache
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.RazorAssemblyInfo.cache
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.RazorAssemblyInfo.cs
+D:\.Net 7\.net EF\obj\Debug\net7.0\staticwebassets.build.json
+D:\.Net 7\.net EF\obj\Debug\net7.0\staticwebassets.development.json
+D:\.Net 7\.net EF\obj\Debug\net7.0\staticwebassets\msbuild..net EF.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net 7\.net EF\obj\Debug\net7.0\staticwebassets\msbuild.build..net EF.props
+D:\.Net 7\.net EF\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting..net EF.props
+D:\.Net 7\.net EF\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive..net EF.props
+D:\.Net 7\.net EF\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.Net 7\.net EF\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.Net 7\.net EF\obj\Debug\net7.0\scopedcss\bundle\.net EF.styles.css
+D:\.Net 7\.net EF\obj\Debug\net7.0\scopedcss\projectbundle\.net EF.bundle.scp.css
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.dll
+D:\.Net 7\.net EF\obj\Debug\net7.0\refint\.net EF.dll
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.pdb
+D:\.Net 7\.net EF\obj\Debug\net7.0\.net EF.genruntimeconfig.cache
+D:\.Net 7\.net EF\obj\Debug\net7.0\ref\.net EF.dll
